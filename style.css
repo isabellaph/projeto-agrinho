@@ -7,7 +7,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .cabeçalho{ 
-    background-color: #1d910e;
+    background-color: #1cce0c;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -25,38 +25,38 @@ body{
     font-size: 20px;
 }
 
-.escola-imagem{
-   width: 25%;
+.agricultura-imagem{
+   width: 20%;
 }
 
-.escola{ 
-    background-image: linear-gradient(#1cbb16, #2bd61b);
-    color: white;
+.agricultura{ 
+    background-image: linear-gradient(#15be10, #91f384);
+    color: rgb(246, 252, 245);
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.agricultura-div-conteudo{
     width: 35%;
 }
-.escola-titulo{
+.projeto-titulo{
     padding: 24px 0;
 }
-.estudante-imagem{
+.agricultura-imagem{
     width: 200px;
 }
 
-.estudante-icone{
+.necessidade-icone{
     width: 24px;
 }
 
-.estudante-div{
+.icone-div{
     text-align: center;
 }
 
-.estudante-título{
+.agricultura-título{
 text-align: center;
 padding: 50px 0;
 }
